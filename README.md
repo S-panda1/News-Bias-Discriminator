@@ -8,7 +8,7 @@ The data used to train and evaluate the tool is from the [Article-Bias-Predictio
 
 # Models
 
-## DistillBERT
+## DistilBERT
 
 I fine-tuned a DistilBERT uncased model on a dataset of nearly 12,000 data points to reduce the training time. The test set comprised 20% of the total dataset. The evaluation loss was approximately 0.10, which is a promising result.
 
@@ -18,5 +18,7 @@ I fine-tuned a DistilBERT uncased model on a dataset of nearly 12,000 data point
 - Accuracy: 81%
 - Eval loss: 0.5
 -  MAE: 0.25
+
+## BERT
 
 
