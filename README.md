@@ -14,5 +14,8 @@ I fine-tuned a DistilBERT uncased model on a dataset of nearly 12,000 data point
 
 
 ## Roberta
+Accuracy: 81%
+Eval loss: 0.5
+MAE: 0.25
 
 
