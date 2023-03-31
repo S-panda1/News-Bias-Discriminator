@@ -20,5 +20,8 @@ I fine-tuned a DistilBERT uncased model on a dataset of nearly 12,000 data point
 -  MAE: 0.25
 
 ## BERT
+- F1 - 0.73
+- Accuracy - 73%
+- MAE- 0.4
 
 
