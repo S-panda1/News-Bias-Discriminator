@@ -8,7 +8,7 @@ The data used to train and evaluate the tool is from the [Article-Bias-Predictio
 
 # Models
 
-### Click on the models folder to view th e ipynb files
+### Click on the "Models" folder to view th e ipynb files
 
 ## DistilBERT
 
