@@ -1,5 +1,5 @@
 # News-Bias-Discriminator
-The news bias discriminator is a Natural Language Processing (NLP) tool that is designed to classify news articles as being biased or unbiased.I will fine tune different LLMs, to see which performs the best.
+The news bias discriminator is a Natural Language Processing (NLP) tool that is designed to classify news articles as being biased or unbiased.The basic idea is to fine-tune some large language models like BERT, ROBERTA and DISTILBERT, and see which one performs the best.
 
 # Data
 
