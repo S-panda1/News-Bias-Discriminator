@@ -12,14 +12,14 @@ In the "models" folder, I trained some models (BERT, ROBERTA, DISTILBERT), on a 
 In the "MODELS_MAIN" folder, I trained BERT on 50% and 100% of the news articles of the dataset, of which are the following results:
 
 ## On 50% of the dataset
-Val Accuracy: 74%
-F1 score (macro): 0.75
-Class imbalance score: 0.75
+- Val Accuracy: 74%
+- F1 score (macro): 0.75
+- Class imbalance score: 0.75
 
 ## On 100% of the dataset
-Val Accuracy: 78%
-F1 score (macro): 0.77
-Class imbalance score:  0.78
+- Val Accuracy: 78%
+- F1 score (macro): 0.77
+- Class imbalance score:  0.78
 
 
 
