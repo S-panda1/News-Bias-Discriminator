@@ -15,11 +15,19 @@ In the "MODELS_MAIN" folder, I trained BERT on 50% and 100% of the news articles
 - Val Accuracy: 74%
 - F1 score (macro): 0.75
 - Class imbalance score: 0.75
+Here is the confusion matrix of this model:
+![download (1)](https://user-images.githubusercontent.com/91069648/232327046-c1934e0a-64cf-405f-80f8-cdd7c451687f.png)
+
+
 
 ## On 100% of the dataset
 - Val Accuracy: 78%
 - F1 score (macro): 0.77
 - Class imbalance score:  0.78
+
+Here is the confusion matrix of this model:
+![download (2)](https://user-images.githubusercontent.com/91069648/232327155-7ba4416b-667d-4476-9b06-652b300e4796.png)
+
 
 ## Note: 
 As BERT model has a maximum sequence length of 512 tokens, and the news articles on the dataset had sequence length in the range of 1200 - 10000 tokens, so I used the window sliding method by splitting the long articles into smaller sections and feeding them to the model separately.
