@@ -21,5 +21,6 @@ In the "MODELS_MAIN" folder, I trained BERT on 50% and 100% of the news articles
 - F1 score (macro): 0.77
 - Class imbalance score:  0.78
 
-
+## Note: 
+As BERT model has a maximum sequence length of 512 tokens, and the news articles on the dataset had sequence length in the range of 1200 - 10000 tokens, so I used the window sliding method by splitting the long articles into smaller sections and feeding them to the model separately.
 
