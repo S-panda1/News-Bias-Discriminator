@@ -7,7 +7,7 @@ The data used to train and evaluate the tool is from the [Article-Bias-Predictio
 
 # Training
 
-In the "models" folder, I trained some models (BERT, ROBERTA, DISTILBERT), on a smaple dataset of 6000 - 12000 news articles to see the intial results of how the models performed on the dataset, based on the testing, I found BERT to be the most suitable.
+In the "models" folder, I trained some models (BERT, ROBERTA, DISTILBERT), on a sample dataset of 6000 - 12000 news articles to see the intial results of how the models performed on the dataset, based on the testing, I found BERT to be the most suitable.
 
 In the "MODELS_MAIN" folder, I trained BERT on 50% and 100% of the news articles of the dataset, of which are the following results:
 
