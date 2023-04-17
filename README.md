@@ -25,6 +25,9 @@ In the "MODELS_MAIN" folder, I trained BERT on 50% and 100% of the news articles
 - Val Accuracy: 78%
 - F1 score (macro): 0.77
 - Class imbalance score:  0.78
+- Precision: 0.7803420381418597
+- Recall: 0.7802626908058218
+
 - Here is the confusion matrix of the model:
 
 ![download (2)](https://user-images.githubusercontent.com/91069648/232327155-7ba4416b-667d-4476-9b06-652b300e4796.png)
